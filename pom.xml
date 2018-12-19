@@ -52,7 +52,7 @@
 				<version>2.18.1</version>
 				<configuration>
 					<includes>
-						<!-- <include>**/*/RightMove_01.java</include> -->
+						<include>**/*/SignIn.java</include>
 					</includes>
 				</configuration>
 			</plugin>
